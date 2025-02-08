@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="social_login">Social Login</string>
+</resources>
