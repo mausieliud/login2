@@ -48,14 +48,15 @@
             android:id="@+id/password_input"
             />
         <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:gravity="center"
             android:text="Login"
-            android:backgroundTint="@color/white"
-            android:textColor="#3395E4"
+            android:backgroundTint="#63EFE2"
+            android:textColor="#1D1997"
             android:padding="18dp"
             android:layout_marginTop="32dp"
-            android:textSize="20sp"
+            android:textSize="15sp"
             android:id="@+id/login_btn"/>
         <TextView
             android:layout_width="wrap_content"
